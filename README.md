@@ -1,0 +1,3 @@
+- 🖐 Oi, me chamo João Victor
+- 💻 Cursando Ciência da Computação na Universidade Estadual do Rio Grande do Norte
+- 🎮 Tenho interesse em animes e jogos
