@@ -1,9 +1,13 @@
 ## Oi! Me chamo João Victor 🖐️ 
-### Cursando Ciência da Computação na UERN 📚
-### Gosto de animes e jogos 🎮
-### Tenho interesse em Desenvolvimento de Software 💻
+- Cursando Ciência da Computação na UERN 📚
+- Gosto de animes e jogos 🎮
+- Tenho interesse em Desenvolvimento de Software 💻
+
+<hr>
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-victor-costa-gomes&show_icons=true&theme=dark)
+
+<hr>
 
 ## Conteúdos que estou aprendendo: 
     <div style="display: inline-block;">
