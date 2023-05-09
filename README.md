@@ -1,16 +1,13 @@
-### Hi there 👋
+###Oi! Me chamo João Victor 🖐️ 
+## Cursando Ciência da Computação na UERN 📚
+## Gosto de animes e jogos 🎮
+## Tenho interesse em Desenvolvimento de Software 💻
 
-<!--
-**joao-victor-costa-gomes/joao-victor-costa-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+##Conteúdos que estou aprendendo: 
+<div style="display: inline-block;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"alt="python"></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"alt="html5"></div>
+
+<div style="display: inline-block;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"alt="css3"></div>
