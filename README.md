@@ -5,7 +5,7 @@
 
 <hr>
 
-<div>
+<div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joao-victor-costa-gomes&show_icons=true&theme=dark"/>
 
@@ -28,3 +28,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
 
 </div>
+
