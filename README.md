@@ -1,11 +1,11 @@
-###Oi! Me chamo João Victor 🖐️ 
+### Oi! Me chamo João Victor 🖐️ 
 ## Cursando Ciência da Computação na UERN 📚
 ## Gosto de animes e jogos 🎮
 ## Tenho interesse em Desenvolvimento de Software 💻
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-victor-costa-gomes&show_icons=true&theme=dark)
 
-##Conteúdos que estou aprendendo: 
+## Conteúdos que estou aprendendo: 
     <div style="display: inline-block;">
 
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"alt="python"/>
