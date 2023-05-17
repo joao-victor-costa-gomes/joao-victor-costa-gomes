@@ -8,7 +8,7 @@
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joao-victor-costa-gomes&show_icons=true&theme=dark"/>
-
+      
 <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=joao-victor-costa-gomes&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark"/>
 
 <div>
@@ -27,8 +27,7 @@
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
 
-<img
-src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 
 </div>
 
