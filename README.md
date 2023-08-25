@@ -1,6 +1,6 @@
 ## Oi! Me chamo João Victor 🖐️ 
 - Cursando Ciência da Computação na UERN 📚
-- Gosto de animes e jogos 🎮
+- Gosto de animes, jogos e horror cósmico 🎮
 - Tenho interesse em Desenvolvimento de Sistemas 💻
 
 <hr>
