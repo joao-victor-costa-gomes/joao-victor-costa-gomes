@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joao-victor-costa-gomes&bg_color=23282e&color=00beff&line=00beff&point=0091ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=joao-victor-costa-gomes&show_icons=true&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=joao-victor-costa-gomes&show_icons=true&theme=github_dark"/>
       
 <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=joao-victor-costa-gomes&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark"/>
 </div>
