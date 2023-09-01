@@ -1,25 +1,17 @@
-## Oi! Me chamo João Victor 🖐️ 
-- Cursando Ciência da Computação na UERN 📚
-- Gosto de animes, jogos e horror cósmico 🎮
-- Tenho interesse em Desenvolvimento de Sistemas 💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
 
-<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bffff&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+João+Victor;I'm+20+years+old;I'm+majoring+in+computer+science;I+like+games,+anime+and+cosmic+horror)](https://git.io/typing-svg)
 
-<div align="center">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joao-victor-costa-gomes&bg_color=23282e&color=00beff&line=00beff&point=0091ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">  
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joao-victor-costa-gomes&show_icons=true&theme=dark"/>
       
 <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=joao-victor-costa-gomes&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark"/>
+</div>
 
-<div>
-
-<hr>
-
-## Conteúdos que estou aprendendo: 
-
+### Studying in this moment:
 <div style = "display: inline_block">
-
-<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
 
@@ -29,3 +21,4 @@
 
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
