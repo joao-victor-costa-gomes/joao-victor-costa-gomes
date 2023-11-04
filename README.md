@@ -10,7 +10,7 @@
 <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=joao-victor-costa-gomes&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark"/>
 </div>
 
-### Studying in this moment:
+<!--### Studying in this moment:
 <div style = "display: inline_block">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
@@ -21,6 +21,6 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 
-</div>
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
