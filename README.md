@@ -2,10 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&vCenter=true&width=1000&lines=Olá!+Me+chamo+João+Victor+&#128400;)](https://git.io/typing-svg)
 
+## SOBRE MIM
 * Tenho 21 anos 
 * Cursando Cîencia da Computação na UERN 🤓📚
 * Estudando para ser um Desenvolvedor de Software 💻👨‍💻
 * Gosto de animes, jogos e obras de horror cósmico 🌌🎮
+
+<br>
 
 ## MINHAS TECNOLOGIAS
 <div style = "display: inline_block">
@@ -20,6 +23,7 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 </div> 
 
+<br>
 
 ## MEUS CONTATOS
 <div>
@@ -27,6 +31,7 @@
   <a href="https://www.linkedin.com/in/joão-victor-da-costa-gomes-3915b9308/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
 
 ## ESTATÍSTICAS
 <div align="center">  
