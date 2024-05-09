@@ -1,6 +1,6 @@
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&vCenter=true&width=1000&lines=Olá!+Me+chamo+João+Victor+&#128400;)](https://git.io/typing-svg)
+
+<br>
 
 ## SOBRE MIM
 * Tenho 21 anos 
