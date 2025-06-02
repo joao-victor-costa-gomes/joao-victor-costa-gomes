@@ -18,9 +18,9 @@
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 
-<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" alt="flask">
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask">
 
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="django">
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django">
 </div> 
 
 ## MEUS CONTATOS
