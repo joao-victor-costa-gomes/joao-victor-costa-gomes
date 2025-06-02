@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&vCenter=true&width=1000&lines=Olá!+Me+chamo+João+Victor+&#128400;)](https://git.io/typing-svg)
 
 ## SOBRE MIM
-* Tenho 21 anos 
+* Tenho 22 anos 
 * Cursando Cîencia da Computação na UERN 🤓📚
 * Estudando para ser um Desenvolvedor de Software 💻👨‍💻
 * Gosto de animes, jogos e obras de horror cósmico 🌌🎮
@@ -18,7 +18,9 @@
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql">
+<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" alt="flask">
+
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="django">
 </div> 
 
 ## MEUS CONTATOS
